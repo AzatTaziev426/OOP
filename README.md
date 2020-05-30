@@ -4,4 +4,4 @@
 
 Вывод программы:
 
-![Image alt](https://github.com/AzatTaziev426/OOP/blob/master/out.png)
+![Image alt](https://github.com/AzatTaziev426/OOP/blob/master/out.ppm)
